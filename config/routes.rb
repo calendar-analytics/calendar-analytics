@@ -11,4 +11,7 @@ Rails.application.routes.draw do
       resources :test
     end
   end
+
+  get 'auth/:provider/callback', to: 'sessions#create'
+  get '/login', to: 'sessions#new'
 end
