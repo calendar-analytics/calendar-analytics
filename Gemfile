@@ -49,6 +49,4 @@ end
 
 gem "figaro"
 
-gem 'omniauth'
-gem "omniauth-rails_csrf_protection"
-gem 'omniauth-google-oauth2'
+gem 'google-apis-calendar_v3', '~> 0.5.0'
