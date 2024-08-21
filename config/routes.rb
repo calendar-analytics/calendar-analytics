@@ -11,6 +11,6 @@ Rails.application.routes.draw do
       resources :test
     end
   end
-  get "/redirect", to: "google#redirect", as: 'redirect'
-  get "/callback", to: "google#callback", as: 'callback'
+  get "/redirect", to: "google#redirect"
+  get "/oauth2callback", to: "google#callback", as: 'callback'
 end
