@@ -1,6 +1,6 @@
 class CalendarsController < ApplicationController
   before_action :initialize_client, only: [:redirect, :callback, :calendars, :events]
-
+  # implement Google::Auth::Stores::FileTokenStore
   def redirect
     redirect_to @client.authorization_uri.to_s, allow_other_host: true
   end
