@@ -11,6 +11,9 @@ Rails.application.routes.draw do
       resources :test
     end
   end
-  get "/redirect", to: "google#redirect"
-  get "/oauth2callback", to: "google#callback", as: 'callback'
+  root to: 'google#index'
+
+  get 'google_redirect', to: 'google#redirect'
+  get 'oauth2callback', to: 'google#oauth2callback'
+  get 'calendar_list', to: 'google#calendar_list'
 end
