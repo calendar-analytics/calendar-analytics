@@ -11,9 +11,10 @@ Rails.application.routes.draw do
       resources :test
     end
   end
-  root to: 'google#index'
 
-  get 'google_redirect', to: 'google#redirect'
-  get 'oauth2callback', to: 'google#oauth2callback'
-  get 'calendar_list', to: 'google#calendar_list'
+  get "/redirect", to: "calendars#redirect"
+  get "/callback", to: "calendars#callback"
+
+  get "/calendars", to: "calendars#calendars"
+  get "/events/*calendar_id", to: "calendars#events", as: "events", calendar_id: "/[^\/]+/"
 end
