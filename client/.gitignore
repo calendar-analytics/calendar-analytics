@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Don't push up env files
-.env
-.env.development
+.env*
