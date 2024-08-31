@@ -47,3 +47,6 @@ group :development do
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
 end
 
+gem "figaro"
+
+gem 'google-apis-calendar_v3', '~> 0.5.0'

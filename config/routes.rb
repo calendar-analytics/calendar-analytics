@@ -11,4 +11,10 @@ Rails.application.routes.draw do
       resources :test
     end
   end
+
+  get "/redirect", to: "calendars#redirect"
+  get "/callback", to: "calendars#callback"
+
+  get "/calendars", to: "calendars#calendars"
+  get "/events/*calendar_id", to: "calendars#events", as: "events", calendar_id: "/[^\/]+/"
 end
