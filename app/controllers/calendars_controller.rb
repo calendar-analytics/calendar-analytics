@@ -87,8 +87,11 @@ class CalendarsController < ApplicationController
   end
 
   def time_max
+    # If param is empty make it current time?
     date_string = params[:time_max]
     time = Time.parse(date_string).utc
     time.rfc3339
   end
 end
+
+# /path/to/resource?queryKey=queryVal
