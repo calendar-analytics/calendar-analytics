@@ -19,4 +19,6 @@ Rails.application.routes.draw do
   # Get time specific events
   # http://localhost:3000/events/primary?time_min=2024-08-01&time_max=2024-09-20
   get "/events/*calendar_id", to: "calendars#events", as: "events", calendar_id: "/[^\/]+/"
+
+  root to: 'application#cookie'
 end
