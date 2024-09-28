@@ -8,12 +8,12 @@ function App() {
 
 
   useEffect(() => {
-    // fetch('http://localhost:3000').then((res) => {
-    //   console.log("RESPONSE: ",res);
-    //   return res.json();
-    // }).then((data) => {
-    //   console.log("DATA: ", data);
-    // });
+    fetch(import.meta.env.VITE_API_URL).then((res) => {
+      console.log("RESPONSE: ",res);
+      return res.json();
+    }).then((data) => {
+      console.log("DATA: ", data);
+    });
   
   }, [])
 
