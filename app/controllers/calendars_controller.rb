@@ -56,7 +56,6 @@ class CalendarsController < ApplicationController
 
   def initialize_client
     @client = Signet::OAuth2::Client.new(client_options)
-    print(@client)
   end
 
   def client_options
@@ -76,7 +75,8 @@ class CalendarsController < ApplicationController
     yield
   rescue StandardError => e
     # Handle error (e.g., log it, show error message)
-    redirect_to root_path, alert: "Failed to fetch data: #{e.message}"
+    print("Failed to fetch data: #{e.message}")
+    render json: { error: e.message }
   end
 
   # returns rfc3339 time
