@@ -3,22 +3,31 @@
 <details>
 <summary>Sign In</summary>
 
-http://localhost:3000/redirect
+http://localhost:3000/auth/google_oauth2
 
 User redirected to google sign in
 
-If successful, user redirected to calendar list in which you get a json that lists all users calendars,
-generaly 'primary' calendar should be selected unless a user opts in for other calendars to use.
+If successful, status 204
 
-If failed redirect to http://localhost:3000/
+If failed status 401
 
 </details>
 
 <details>
-<summary>Example Calendar Data Request with JSON</summary>
+<summary>Calendars List</summary>
+
+http://localhost:3000/api/v1/calendars
+
+If successful receive calendar list json.
+If failed status renders json error for now, will remove in prod.
+
+</details>
+
+<details>
+<summary>Example Event Data Request with JSON</summary>
 
 ```
-http://localhost:3000/events/primary?time_min=2024-09-22&time_max=2024-09-23
+http://localhost:3000/api/v1/events/primary?time_min=2024-09-22&time_max=2024-09-23
 ```
 
 retrieves 2024-09-22 day's events scheduled from 12 AM - 12 AM (next day)
@@ -79,11 +88,11 @@ retrieves 2024-09-22 day's events scheduled from 12 AM - 12 AM (next day)
 </details>
 
 <details>
-<summary>Example Calendar Data Request (all day event)</summary>
+<summary>Example Event Data Request (all day event)</summary>
 
 ```
 
-http://localhost:3000/events/primary?time_min=2024-09-23&time_max=2024-09-24
+http://localhost:3000/api/v1/events/primary?time_min=2024-09-23&time_max=2024-09-24
 
 ```
 
