@@ -9,7 +9,7 @@ class CalendarsController < ApplicationController
     @client.code = params[:code]
     response = @client.fetch_access_token!
     session[:authorization] = response
-    redirect_to calendars_url
+    redirect_to "http://localhost:5173"
   rescue StandardError => e
     # Handle error (e.g., log it, show error message)
     redirect_to root_path, alert: "Failed to authorize: #{e.message}"
@@ -56,7 +56,6 @@ class CalendarsController < ApplicationController
 
   def initialize_client
     @client = Signet::OAuth2::Client.new(client_options)
-    print(@client)
   end
 
   def client_options
@@ -76,7 +75,8 @@ class CalendarsController < ApplicationController
     yield
   rescue StandardError => e
     # Handle error (e.g., log it, show error message)
-    redirect_to root_path, alert: "Failed to fetch data: #{e.message}"
+    print("Failed to fetch data: #{e.message}")
+    render json: { error: e.message }
   end
 
   # returns rfc3339 time
@@ -87,8 +87,11 @@ class CalendarsController < ApplicationController
   end
 
   def time_max
+    # If param is empty make it current time?
     date_string = params[:time_max]
     time = Time.parse(date_string).utc
     time.rfc3339
   end
 end
+
+# /path/to/resource?queryKey=queryVal
