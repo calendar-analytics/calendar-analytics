@@ -6,19 +6,15 @@ Rails.application.routes.draw do
   get "up" => "rails/health#show", as: :rails_health_check
   # Defines the root path route ("/")
   # root "posts#index"
+  root "application#cookie"
   namespace :api do
     namespace :v1 do
       resources :test
+      resources :calendars, only: [:index]
+      get "events/*calendar_id", to: "events#index", calendar_id: "/[^\/]+/"
     end
   end
 
-  get "/redirect", to: "calendars#redirect"
-  get "/callback", to: "calendars#callback"
-
-  get "/calendars", to: "calendars#calendars"
-  # Get time specific events
-  # http://localhost:3000/events/primary?time_min=2024-08-01&time_max=2024-09-20
-  get "/events/*calendar_id", to: "calendars#events", as: "events", calendar_id: "/[^\/]+/"
-
-  root to: 'application#cookie'
+  get "/auth/google_oauth2", to: "auth#redirect"
+  get "/auth/google_oauth2/callback", to: "auth#callback"
 end
