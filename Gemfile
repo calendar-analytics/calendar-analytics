@@ -9,7 +9,7 @@ gem "rails", "~> 7.1.3", ">= 7.1.3.4"
 gem "sqlite3", "~> 1.4"
 
 # Use the Puma web server [https://github.com/puma/puma]
-gem "puma", ">= 5.0"
+gem 'puma', '~> 6.4', '>= 6.4.3'
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
@@ -49,4 +49,5 @@ end
 
 gem "figaro"
 
-gem 'google-apis-calendar_v3', '~> 0.5.0'
+gem 'google-apis-calendar_v3', '~> 0.43.0'
+gem 'webrick', '~> 1.8', '>= 1.8.2'
