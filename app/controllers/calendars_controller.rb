@@ -9,7 +9,7 @@ class CalendarsController < ApplicationController
     @client.code = params[:code]
     response = @client.fetch_access_token!
     session[:authorization] = response
-    redirect_to calendars_url
+    redirect_to "http://localhost:5173"
   rescue StandardError => e
     # Handle error (e.g., log it, show error message)
     redirect_to root_path, alert: "Failed to authorize: #{e.message}"
