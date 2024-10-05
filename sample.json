@@ -1,0 +1,962 @@
+[
+  {
+    "created": "2024-08-01T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-01T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"6963938343623017\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=6e4d8ae359935cd760b419",
+    "iCalUID": "6e4d8ae359935cd760b419@google.com",
+    "id": "6e4d8ae359935cd760b419",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-01T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 1",
+    "updated": "2024-08-01T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-02T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-02T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"3358614023160391\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=ea5d371144f60cc6fa1f12",
+    "iCalUID": "ea5d371144f60cc6fa1f12@google.com",
+    "id": "ea5d371144f60cc6fa1f12",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-02T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 2",
+    "updated": "2024-08-02T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-03T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-03T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"5126912996843139\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=30e9ee17cca0ebe6d03377",
+    "iCalUID": "30e9ee17cca0ebe6d03377@google.com",
+    "id": "30e9ee17cca0ebe6d03377",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-03T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 3",
+    "updated": "2024-08-03T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-04T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-04T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"8092015259978100\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=c3d7a204dc20c1466497a5",
+    "iCalUID": "c3d7a204dc20c1466497a5@google.com",
+    "id": "c3d7a204dc20c1466497a5",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-04T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 4",
+    "updated": "2024-08-04T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-05T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-05T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"3823632944879136\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=7061a7801206c6eab9d3e9",
+    "iCalUID": "7061a7801206c6eab9d3e9@google.com",
+    "id": "7061a7801206c6eab9d3e9",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-05T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 5",
+    "updated": "2024-08-05T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-06T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-06T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"2848738829737277\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=a7a555cb0b883c58051df8",
+    "iCalUID": "a7a555cb0b883c58051df8@google.com",
+    "id": "a7a555cb0b883c58051df8",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-06T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 6",
+    "updated": "2024-08-06T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-07T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-07T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"3223069391353826\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=f6767ed636662c502af897",
+    "iCalUID": "f6767ed636662c502af897@google.com",
+    "id": "f6767ed636662c502af897",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-07T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 7",
+    "updated": "2024-08-07T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-08T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-08T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"8383091186194507\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=cbc7eeb9eb873ea04f4c78",
+    "iCalUID": "cbc7eeb9eb873ea04f4c78@google.com",
+    "id": "cbc7eeb9eb873ea04f4c78",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-08T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 8",
+    "updated": "2024-08-08T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-09T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-09T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"3196163146674838\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=56c1319eda158e26ef6675",
+    "iCalUID": "56c1319eda158e26ef6675@google.com",
+    "id": "56c1319eda158e26ef6675",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-09T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 9",
+    "updated": "2024-08-09T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-10T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-10T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"7979342337843283\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=424a534ff7d35cd42b307e",
+    "iCalUID": "424a534ff7d35cd42b307e@google.com",
+    "id": "424a534ff7d35cd42b307e",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-10T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 10",
+    "updated": "2024-08-10T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-11T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-11T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"7800085605324780\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=de67d7c8f6172a70a1699e",
+    "iCalUID": "de67d7c8f6172a70a1699e@google.com",
+    "id": "de67d7c8f6172a70a1699e",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-11T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 11",
+    "updated": "2024-08-11T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-12T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-12T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"3094937227968548\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=d19206e7e1181e99da4c21",
+    "iCalUID": "d19206e7e1181e99da4c21@google.com",
+    "id": "d19206e7e1181e99da4c21",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-12T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 12",
+    "updated": "2024-08-12T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-13T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-13T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"8908725664037231\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=fd4120c9a2e6bf43a55c62",
+    "iCalUID": "fd4120c9a2e6bf43a55c62@google.com",
+    "id": "fd4120c9a2e6bf43a55c62",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-13T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 13",
+    "updated": "2024-08-13T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-14T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-14T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"3275331087691251\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=bacf1e9856c2cea6630066",
+    "iCalUID": "bacf1e9856c2cea6630066@google.com",
+    "id": "bacf1e9856c2cea6630066",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-14T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 14",
+    "updated": "2024-08-14T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-15T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-15T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"9802240021771108\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=59c9f701cac5858fa2cf52",
+    "iCalUID": "59c9f701cac5858fa2cf52@google.com",
+    "id": "59c9f701cac5858fa2cf52",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-15T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 15",
+    "updated": "2024-08-15T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-16T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-16T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"2482839620577572\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=8904f2fad35398c9bef219",
+    "iCalUID": "8904f2fad35398c9bef219@google.com",
+    "id": "8904f2fad35398c9bef219",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-16T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 16",
+    "updated": "2024-08-16T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-17T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-17T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"4800862463688336\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=6868f56fde93d16e34af1e",
+    "iCalUID": "6868f56fde93d16e34af1e@google.com",
+    "id": "6868f56fde93d16e34af1e",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-17T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 17",
+    "updated": "2024-08-17T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-18T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-18T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"9617349627735357\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=44e82efd3904e4cbc94c02",
+    "iCalUID": "44e82efd3904e4cbc94c02@google.com",
+    "id": "44e82efd3904e4cbc94c02",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-18T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 18",
+    "updated": "2024-08-18T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-19T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-19T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"8276047737561932\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=af1f27d53040b50696f234",
+    "iCalUID": "af1f27d53040b50696f234@google.com",
+    "id": "af1f27d53040b50696f234",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-19T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 19",
+    "updated": "2024-08-19T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-20T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-20T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"2404541909900474\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=e37cba4b18adf20138c31a",
+    "iCalUID": "e37cba4b18adf20138c31a@google.com",
+    "id": "e37cba4b18adf20138c31a",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-20T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 20",
+    "updated": "2024-08-20T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-21T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-21T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"2536587908309664\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=9e155098a192898d129340",
+    "iCalUID": "9e155098a192898d129340@google.com",
+    "id": "9e155098a192898d129340",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-21T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 21",
+    "updated": "2024-08-21T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-22T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-22T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"2579360595548333\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=86faff5c887ad5325d5aaf",
+    "iCalUID": "86faff5c887ad5325d5aaf@google.com",
+    "id": "86faff5c887ad5325d5aaf",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-22T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 22",
+    "updated": "2024-08-22T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-23T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-23T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"6998169536286736\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=b663f7bcde46173688fde5",
+    "iCalUID": "b663f7bcde46173688fde5@google.com",
+    "id": "b663f7bcde46173688fde5",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-23T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 23",
+    "updated": "2024-08-23T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-24T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-24T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"1483263979154041\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=1c34a2761121182d6f3ba7",
+    "iCalUID": "1c34a2761121182d6f3ba7@google.com",
+    "id": "1c34a2761121182d6f3ba7",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-24T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 24",
+    "updated": "2024-08-24T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-25T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-25T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"2260749555171278\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=ea01ef2d7757f8122b73bd",
+    "iCalUID": "ea01ef2d7757f8122b73bd@google.com",
+    "id": "ea01ef2d7757f8122b73bd",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-25T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 25",
+    "updated": "2024-08-25T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-26T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-26T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"7812542222471596\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=fefe28b34dd349eadbe6e6",
+    "iCalUID": "fefe28b34dd349eadbe6e6@google.com",
+    "id": "fefe28b34dd349eadbe6e6",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-26T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 26",
+    "updated": "2024-08-26T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-27T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-27T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"6902026228508809\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=6f0222f10354461532cada",
+    "iCalUID": "6f0222f10354461532cada@google.com",
+    "id": "6f0222f10354461532cada",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-27T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 27",
+    "updated": "2024-08-27T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-28T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-28T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"6080271584569790\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=09559f28a85c9696ac99b8",
+    "iCalUID": "09559f28a85c9696ac99b8@google.com",
+    "id": "09559f28a85c9696ac99b8",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-28T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 28",
+    "updated": "2024-08-28T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-29T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-29T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"5094958412571021\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=ab835c9306e5a7b56933db",
+    "iCalUID": "ab835c9306e5a7b56933db@google.com",
+    "id": "ab835c9306e5a7b56933db",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-29T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 29",
+    "updated": "2024-08-29T00:00:00.219+00:00"
+  },
+  {
+    "created": "2024-08-30T00:00:00.000+00:00",
+    "creator": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2024-08-30T17:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "etag": "\"9929905462524545\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=3fc3e11efcc86af606276b",
+    "iCalUID": "3fc3e11efcc86af606276b@google.com",
+    "id": "3fc3e11efcc86af606276b",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "mclpious@gmail.com",
+      "self": true
+    },
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2024-08-30T16:00:00.000-04:00",
+      "timeZone": "America/Toronto"
+    },
+    "status": "confirmed",
+    "summary": "Event 30",
+    "updated": "2024-08-30T00:00:00.219+00:00"
+  }
+]
